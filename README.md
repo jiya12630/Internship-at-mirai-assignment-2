@@ -17,3 +17,7 @@ An AI chatbot with multiple AI personas.
    - Streamlit
    - Google Gemini API
    - python-dotenv
+
+
+
+<img width="1780" height="884" alt="ChatGPT Image Jul 10, 2026, 05_15_09 PM" src="https://github.com/user-attachments/assets/d0eb5fcc-30f1-4fcb-a7ff-2f75799b4595" />
