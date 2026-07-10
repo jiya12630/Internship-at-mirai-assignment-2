@@ -3,8 +3,8 @@
 AI Multiverse Chatbot
 
  Features
-   Multiple personas: Choose from a Wise Sage, a Sarcastic Robot, a Poet, or add your own.
-   Separate chat histories: Each universe keeps its own conversation history.
+   1.Multiple personas: Choose from a Wise Sage, a Sarcastic Robot, a Poet, or add your own.
+   2.Separate chat histories: Each universe keeps its own conversation history.
    Streaming responses: See the AI "type" out its answer in real time.
    Status updates: Fun spinner messages while the AI cooks your response.
    Clear chat: Reset the conversation for the selected universe with one click.
